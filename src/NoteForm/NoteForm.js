@@ -25,6 +25,8 @@ class NoteForm extends Component {
             newNoteContent: '',
         });
     }
+
+  
     render() {
         return (
             <div className="formWrapper">
